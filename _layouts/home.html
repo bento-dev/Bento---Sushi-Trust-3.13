@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="site">
+          <div class="header">
+            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <!--
+            <a class="extra" href="/">home</a>
+            -->
+          </div>
+
+          <h1>The Bento-dev project in few words</h1>
+          <p>
+          The present project aims to gather developers interested in creating a gui software to ease the configuration of the different parts in an Openbox only desktop environment.
+          </p>
+
+          <p>
+          Bento is a distribution built on Ubuntu LTS, around the Openbox window manager and a few more components meant to form an easy and light environment for all users.
+          </p>
+
+          <p>
+          In order to pursue the aim of making it an easy almost-a-desktop environment we need to create a graphical user interface for an easy configuration of each part.
+          </p>
+
+          <p>
+          The resulting project should be available for all users who wish to setup their own Openbox environment, in any distribution
+          </p>
+
+          {{ content }}
+
+          <div class="footer">
+            <div class="contact">
+              <p>
+                Bento Dev<br />
+                linuxvillage@gmx.fr
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                <a href="https://github.com/Bento-dev">github.com/bento-dev</a><br />
+              </p>
+            </div>
+          </div>
+        </div>
+
+    </body>
+</html>
