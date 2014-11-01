@@ -11,7 +11,7 @@ In order to develop the `OpenBox Control Center` -let's said `OCC` for now- you'
 
 ## Minimum Setup
 
-- OpenBox *Desktop manager* [wiki][wikio] [cvs][cvso] [home][homeo]
+- OpenBox *Desktop manager* [wiki][wikio] [cvs][cvso]
 - openbox-menu [wiki][wikiom] [cvs][cvsom] [home][homeom]
 - obsession [cvs][cvsos]
 
