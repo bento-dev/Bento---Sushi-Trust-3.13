@@ -12,8 +12,14 @@ In order to develop the `OpenBox Control Center` -let's said `OCC` for now- you'
 ## Minimum Setup
 
 - OpenBox *Window manager* [wiki][wikio] [cvs][cvso]
-- openbox-menu [wiki][wikiom] [cvs][cvsom] [home][homeom]
-- obsession [cvs][cvsos]
+- (optional) openbox-menu [wiki][wikiom] [cvs][cvsom] [home][homeom]
+- (optional) obsession [cvs][cvsos]
+- obconf
+- lxappearance
+- obmenu
+- obkey
+- tint2conf
+- lxqt-config
 
 [wikio]: http://openbox.org/wiki/Main_Page
 [cvso]: https://github.com/danakj/openbox
