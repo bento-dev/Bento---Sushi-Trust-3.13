@@ -35,6 +35,7 @@ Ideally, the new tools should be destkop agnostic, have as less depends as possi
 - Screen resolution
 - Applications default started with the session
 - Tint2 panel setup (the dedicated application does not work: "saving is not supported" and tint2 itself isn't developped anymore since 2011)
+- method for localization
 
 ## The programs which allow managing all this so far:
 
