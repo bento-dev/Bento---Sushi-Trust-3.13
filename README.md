@@ -1,8 +1,8 @@
-#bento-dev.github.io
+#Bento-Dev | GitHub Official repository
 
-this is the project page for [bento-dev website](http://bento-dev.github.io)
+This is the project page for [bento-dev website](http://bento-dev.github.io)
 
-##features
+##Features
 
 - Home page
 - Blog entries
