@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Openbox Menu Editor
+Name[fr]=Editeur de menu pour Openbox
+Comment=Edit the Openbox menu
+Comment[fr]=Éditer le menu Openbox
+Icon=mnu48.png
+Exec=obmenu %f
+Categories=Settings;DesktopSettings;GTK;
+MimeType=application/x-openbox-theme;
+StartupNotify=true
+Terminal=false

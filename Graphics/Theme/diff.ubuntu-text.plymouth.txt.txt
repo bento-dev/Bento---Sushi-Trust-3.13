@@ -1,0 +1,20 @@
+--- a-ubuntu-text.plymouth	2013-10-09 15:53:12.731664523 +0200
++++ b-ubuntu-text.plymouth	2013-10-09 15:53:12.723664699 +0200
+@@ -1,11 +1,12 @@
++
+ [Plymouth Theme]
+ Name=Ubuntu Text
+-Description=Text mode theme based on ubuntu-logo theme
++Description=Text mode theme based on ubuntu-text theme
+ ModuleName=ubuntu-text
+ 
+ [ubuntu-text]
+-title=Ubuntu 12.04
+-black=0x2c001e
++title=Bento Village 12.04
++black=0x04235d
+ white=0xffffff
+-brown=0xff4012
+-blue=0x988592
++brown=0xffca79
++blue=0x8cb1d9

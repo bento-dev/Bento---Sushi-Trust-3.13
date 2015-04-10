@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Link
+Icon=user-trash.png
+Name=Trash
+Name[de]=Mülleimer
+Name[fr]=Corbeille
+GenericName=Trash
+GenericName[de]=Mülleimer
+GenericName[fr]=Corbeille
+Comment=Contains trash
+Comment[de]=Beinhaltet gelöschte Dateien
+Comment[fr]=Fichiers supprimés
+Categories=FileManager;FileManager;X-MandrivaLinux-System-FileTools;
+URL=trash:///
+StartupNotify=true
+Terminal=false
+MimeType=x-directory/normal;inode/directory;
+Encoding=UTF-8
+X-Desktop-File-Install-Version=0.11
+

@@ -1,0 +1,13 @@
+[Storage Permissions]
+Identity=unix-group:polkituser
+Action=org.freedesktop.udisks.filesystem-mount;org.freedesktop.udisks.drive-eject;org.freedesktop.udisks.drive-detach;org.freedesktop.udisks.luks-unlock;org.freedesktop.udisks.inhibit-polling;org.freedesktop.udisks.drive-set-spindown;org.freedesktop.udisks.filesystem-unmount-others
+ResultAny=yes
+ResultActive=yes
+ResultInactive=no
+
+[Red?marrage kinik root]
+Identity=unix-group:polkituser
+Action=org.freedesktop.consolekit.system.stop*
+ResultAny=yes
+ResultActive=yes
+ResultInactive=no

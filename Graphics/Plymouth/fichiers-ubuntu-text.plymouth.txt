@@ -1,0 +1,43 @@
+ubuntu-text.plymouth et autres pour le splashboot des Live CD:
+
+Du paquet plymouth-theme-ubuntu-text, le fichier
+/lib/plymouth/themes/ubuntu-text/ubuntu-text.plymouth
+
+Ubuntu:
+[Plymouth Theme]
+Name=Ubuntu Text
+Description=Text mode theme based on ubuntu-logo theme
+ModuleName=ubuntu-text
+
+[ubuntu-text]
+title=Ubuntu 12.04
+black=0x2c001e
+white=0xffffff
+brown=0xff4012
+blue=0x988592
+
+Lubuntu:
+
+_lubuntu-text-plymouth_
+
+[Plymouth Theme]
+Name=Lubuntu Text
+Description=Text mode theme based on kubuntu-logo theme
+ModuleName=ubuntu-text
+
+[ubuntu-text]
+title=Lubuntu 12.04
+black=0x0078C2
+white=0xffffff
+brown=0x009DFD
+blue=0x00182C
+
+========
+
+à priori, "black", c'est pour le fond; "white" rien de spécial; "brown" pour le message 
+et "blue" pourrait être pour la couleur du titre du Live.
+
+Je suppose qu'un fichier nommé "obubuntu-text.plymouth" pourrait faire l'affaire
+aussi bien qu'un autre. 
+
+À essayer.
