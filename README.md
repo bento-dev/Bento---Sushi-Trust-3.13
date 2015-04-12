@@ -1,5 +1,5 @@
-# Bento--3.13
-Bento's Latest Version
+# Bento Tusty Sushi Edition
+Bento's Latest Version ([you can download it and test it here.](http://downloads.linuxvillage.org/))
 
 #Bento-Dev | GitHub Official repository
 
