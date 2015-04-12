@@ -15,10 +15,11 @@ Bento Ubuntu Remix distributions can be installed to machines ranging from more 
 
 ## Features
 
-- Full fledged desktop
+- Uses the same repositories of Ubuntu;
+- Full fledged desktop;
 - Light distribution;
-- Regular applications, such as Office, Multimedia apps and Internet;
-- Additional tools for developers
+- Regular applications, such as Office, Multimedia apps and Internet; and
+- Additional tools for developers.
 
 ## Blog Posts
 
