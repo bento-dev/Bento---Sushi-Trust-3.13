@@ -1,4 +1,4 @@
-# Bento Tusty Sushi Edition | GitHub Official Repository
+# Bento Trusty Sushi Edition | GitHub Official Repository
 
 Bento's Latest Version: Bento Trusty Sushi Edition. ([you can download it and test it here.](http://downloads.linuxvillage.org/))
 This is the project page for [bento-dev website](http://bento-dev.github.io).
