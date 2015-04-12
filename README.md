@@ -21,13 +21,12 @@ Bento Ubuntu Remix distributions can be installed to machines ranging from more 
 - Regular applications, such as Office, Multimedia apps and Internet; and
 - Additional tools for developers.
 
-## Blog Posts
-
-* 01/11/2014 [OCC dev Requirements](http://bento-dev.github.io/bento/2014/11/01/openbox-control-center-requirements.html)
-* 01/11/2014 [Open Box Control Center](http://bento-dev.github.io/bento/2014/11/01/openbox-control-center.html)
-* 27/03/2014 [Welcome to Bento-dev!](http://bento-dev.github.io/bento/2014/03/27/welcome-to-bento-dev.html)
-
 ## Requirements
 
-- ruby [jekyll](http://jekyllrb.com/) gem
+### Non Technical
+- Ruby [jekyll](http://jekyllrb.com/) gem
 
+### Technical
+- At least 768 MB of Ram;
+- At least a 1GHz CPU;
+- Any graphics card will do
