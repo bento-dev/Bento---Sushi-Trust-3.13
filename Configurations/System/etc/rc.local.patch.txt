@@ -1,9 +1,0 @@
---- a-rc.local	2013-07-29 01:21:52.586946074 +0200
-+++ b-rc.local	2013-07-29 01:22:41.910945603 +0200
-@@ -11,6 +11,4 @@
- #
- # By default this script does nothing.
- 
--service zram-config start
--
- exit 0

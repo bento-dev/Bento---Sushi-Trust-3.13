@@ -1,8 +1,0 @@
-
-[Desktop Entry]
-Encoding=UTF-8
-Type=Application
-Name=Lxpanel
-Name[fr_FR]=Lxpanel
-Exec=/usr/bin/lxpanel
-Comment[fr_FR]=Panel Lxpanel
