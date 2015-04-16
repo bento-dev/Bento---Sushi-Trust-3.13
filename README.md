@@ -2,7 +2,7 @@
 
 Bento's Latest Version: [bento-stable](https://github.com/bento-dev/Bento-Stable). <br>
 This is the project page for Bento Distribution - Trusty Sushi Edition.<br>
-You can download [bento-stable here](http://bentovillage.org/bento/)<br>
+You can download [bento-stable here.](http://bentovillage.org/bento/)<br>
 
 ## The Bento-dev project in few words
 
