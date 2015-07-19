@@ -1,4 +1,4 @@
-# Bento Trusty Sushi Edition | GitHub Official Repository
+# Bento Openbox presentation
 
 Bento's Latest Version: [bento-stable](http://linuxvillage.org/en/downloads/). <br>
 This is the project page for Bento Distribution - Trusty Sushi Edition.<br>
