@@ -1,7 +1,7 @@
 # Bento Openbox presentation
 
 Bento's Latest Version: [bento-stable](http://linuxvillage.org/en/downloads/). <br>
-This is the project page for Bento Distribution - Trusty Sushi Edition.<br>
+This is the project page for Bento Openbox Distribution. <br>
 * [Launchpad project page](https://launchpad.net/bento-dev)
 * [Development mailing list](http://www.freelists.org/list/bento-dev)
 
