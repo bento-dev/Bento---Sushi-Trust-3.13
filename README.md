@@ -1,15 +1,15 @@
 # Bento Trusty Sushi Edition | GitHub Official Repository
 
-Bento's Latest Version: [bento-stable](https://github.com/bento-dev/Bento-Stable). <br>
+Bento's Latest Version: [bento-stable](http://linuxvillage.org/en/downloads/). <br>
 This is the project page for Bento Distribution - Trusty Sushi Edition.<br>
-You can download [bento-stable here.](http://bentovillage.org/bento/)<br>
-Head over to our [Launchpad project page](https://launchpad.net/bento-dev) to find more information and how to contribute. 
+* [Launchpad project page](https://launchpad.net/bento-dev)
+* [Development mailing list](http://www.freelists.org/list/bento-dev)
 
 ## The Bento-dev project in few words
 
-This is Bento : Ubuntu Openbox Remix .
+This is Bento : Ubuntu Openbox Remix.
 
-The goal is to provide a light Linux distribution, while keeping it easy to use, in an Ubuntu LTS edition, for the stability. Bento doesn't use a Desktop Manager.
+The goal is to provide a GNU/Linux distribution built around the light Openbox window manager, in an environment fit for the non tech and the more advanced users. We want it to be easy to use and customize, and we focus on the LTS editions of Ubuntu as a basis, for the stability.
 
 Openbox is provided with openbox-menu and obsession (a new little program forked from lxsession-logout).
 
@@ -17,4 +17,4 @@ Openbox is provided with openbox-menu and obsession (a new little program forked
 
 - At least 768 MB of Ram;
 - At least a 1GHz CPU;
-- Any graphics card should do
+- Most recent graphics cards and some older ones are supported.
